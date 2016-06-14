@@ -1,0 +1,90 @@
+[
+{
+  "id": "article_0",
+  "title": "India",
+  "content": "India is a vast South Asian country with diverse terrain – from Himalayan peaks to Indian Ocean coastline – and history reaching back 5 millennia. In the north, Mughal Empire landmarks include Delhi’s Red Fort complex, massive Jama Masjid mosque and Agra’s iconic Taj Mahal mausoleum. Pilgrims bathe in the Ganges in Varanasi, and Rishikesh is a yoga center and base for Himalayan trekking.",
+  "userName": "rajeev_jayaswal",
+  "comments": ["comments1, comments2"],
+  "date":"12/12/2012"
+},
+{
+  "id": "article_1",
+  "title": "Pakistan",
+  "content": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the sixth-most populous country with a population exceeding 199 million people.",
+  "userName": "rakesh_malhotra",
+  "comments": ["comments3, comments4"],
+  "date":"12/21/2013"
+},
+{
+  "id": "article_2",
+  "title": "Nepal",
+  "content": "With an area of 147,181 square kilometres (56,827 sq mi) and a population of approximately 27 million,[5] Nepal is the world's 93rd largest country by area[11] and the 41st most populous country. It is a landlocked country located along the Himalayas and bordered to the north by China and to the south, east, and west by India. Nepal is separated from Bangladesh by the narrow Indian Siliguri Corridor and from Bhutan by the Indian state of Sikkim. Kathmandu is the nation's capital city and largest metropolis.",
+  "userName": "sajneev_rai",
+  "comments": ["comments5, comments6"],
+  "date":"12/21/2014"
+},
+{
+  "id": "article_3",
+  "title": "Bhutan",
+  "content": "Bhutan, a Buddhist kingdom on the Himalayas’ eastern edge, is a land of monasteries, fortresses (or dzongs) and dramatic topography ranging from subtropical plains to steep mountains and valleys. In the High Himalayas, peaks such as 7,326m Jomolhari are a destination for serious trekkers. Taktsang Palphug (Tiger’s Nest) monastery, a sacred site, clings to cliffs above the forested Paro Valley.",
+  "userName": "sonam_regzin",
+  "comments": ["comments7, comments8"],
+  "date":"12/21/2015"
+},
+  {
+  "id": "article_4",
+  "title": "Japan",
+  "content": "Japan is an island nation in the Pacific Ocean with high-rise-filled cities, imperial palaces, mountainous national parks and thousands of shrines and temples. Tokyo, the crowded capital, is known for its neon skyscrapers and pop culture. In contrast, Kyoto offers Buddhist temples, Shinto shrines, gardens and cherry blossoms. Sushi, the national dish, is served everywhere from casual pubs to gourmet restaurants.",
+  "userName": "shaoying",
+  "comments": ["comments7, comments8"],
+  "date":"12/21/2015"
+},
+  {
+  "id": "article_5",
+  "title": "United States",
+  "content": "The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the extreme Northwest and Hawaii extending the nation’s presence into the Pacific Ocean. Major cities include New York, a global finance and culture center, and Washington, DC, the capital, both on the Atlantic Coast; Los Angeles, famed for filmmaking, on the Pacific Coast; and the Midwestern metropolis Chicago.",
+  "userName": "smith",
+  "comments": ["comments7, comments8"],
+  "date":"12/21/2015"
+},
+  {
+  "id": "article_6",
+  "title": "Germany",
+  "content": "Germany is a Western European country with a terrain of vast forests, rivers and mountain ranges, and 2 millennia of history. Berlin, its capital, is home to thriving art and nightlife scenes, iconic Brandenburg Gate and many sites relating to WWII. Munich is known for its Oktoberfest and cavernous beer halls, including 16th-century Hofbräuhaus. Frankfurt, with its skyscrapers, houses the European Central Bank.",
+  "userName": "sonam_regzin",
+  "comments": ["comments7, comments8"],
+  "date":"12/21/2015"
+},
+  {
+  "id": "article_7",
+  "title": "London",
+  "content": "London, England’s capital, set on the River Thames, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
+  "userName": "Stefan",
+  "comments": ["comments7, comments8"],
+  "date":"12/21/2015"
+},
+  {
+  "id": "article_8",
+  "title": "Manchester",
+  "content": "Manchester is a major city in the northwest of England with a rich industrial heritage. The Castlefield Conservation Area’s 18th-century canal system harks back to the city’s days as a textile powerhouse, and you can trace this history at the interactive Museum of Science & Industry. The revitalised Salford Quays dockyards now houses the Daniel Libeskind-designed Imperial War Museum North and The Lowry cultural centre.",
+  "userName": "Paul",
+  "comments": ["comments7, comments8"],
+  "date":"12/21/2015"
+},
+  {
+  "id": "article_9",
+  "title": "Bangladesh",
+  "content": "Bangladesh, east of India on the Bay of Bengal, is South Asian country of lush greenery and many waterways. Its Padma (Ganges), Meghna and Jamuna rivers create fertile alluvial plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with India, are home to the Royal Bengal tiger.",
+  "userName": "Javed aktar",
+  "comments": ["comments7, comments8"],
+  "date":"12/21/2015"
+},
+  {
+  "id": "article_10",
+  "title": "Sri Lanks",
+  "content": "Sri Lanka (formerly Ceylon), a tiny island nation south of India in the Indian Ocean, is a rugged land of rainforest, diverse wildlife and endless beaches. It’s famed for its ancient Buddhist ruins, including the 5th-century citadel Sigiriya, with its palace and frescoes, and the sacred city of Anuradhapura. Its flavorful cuisine reflects its history as a maritime hub and cultural melting pot.",
+  "userName": "Ranil",
+  "comments": ["comments7, comments8"],
+  "date":"12/21/2015"
+}
+]
