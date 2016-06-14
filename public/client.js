@@ -1,3 +1,7 @@
+/*
+author: rajeev.jayaswal
+website: www.rajeev.jayaswal.xyz
+*/
 var myApp = angular.module('app', []);
 
 myApp.controller('homeCtrl', function($http, $scope) {
