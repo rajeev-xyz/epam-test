@@ -46,6 +46,6 @@ app.post('/section', function(req, res) {
   res.send({'title':title,'content':content});
 });
 
-app.listen(3000, function() {
-    console.log('listening on port ' + 3000);
+app.listen(8080, function() {
+    console.log('listening on port ' + 8080);
 });
