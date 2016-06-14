@@ -1,6 +1,6 @@
 /*
 author: rajeev.jayaswal
-website: www.rajeev.jayaswal.xyz
+website: www.rajeevjayaswal.xyz
 */
 var myApp = angular.module('app', []);
 
